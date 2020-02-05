@@ -3,7 +3,7 @@ email:              jl9pg@virginia.edu
 description:        A Blog Theme by Start Bootstrap
 author:             Jiajia Liang
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+url:                "https://szellen.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -12,7 +12,7 @@ facebook_username:  100010064949119
 linkedin_username:  jiajia-liang-296842174
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
