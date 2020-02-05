@@ -1,0 +1,24 @@
+title:              Jiajia Liang
+email:              jl9pg@virginia.edu
+description:        A Blog Theme by Start Bootstrap
+author:             Jiajia Liang
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://blackrockdigital.github.io"
+
+# Social Profiles
+twitter_username:   SBootstrap
+github_username:    szellen
+facebook_username:  100010064949119
+linkedin_username:  jiajia-liang-296842174
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
