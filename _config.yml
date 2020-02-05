@@ -2,11 +2,10 @@ title:              Jiajia Liang
 email:              jl9pg@virginia.edu
 description:        A Blog Theme by Start Bootstrap
 author:             Jiajia Liang
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://szellen.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
 github_username:    szellen
 facebook_username:  100010064949119
 linkedin_username:  jiajia-liang-296842174
