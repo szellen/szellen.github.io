@@ -6,17 +6,24 @@
       Menu
       <i class="fa fa-bars"></i>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="{{"/" | relative_url }}">About Me</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/project" | relative_url }}">Projects/Research</a>
+
+
+        <li class="nav-item dropdown ">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{"/work" | relative_url }}" role="button" aria-haspopup="true" aria-expanded="false">Projects/Research</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/work#projects">Projects</a>
+            <div role="separator" class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/work#research">Research</a>
+          </div>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/project2" | relative_url }}">Projects-reformat</a>
-        </li>
+
+
         <li class="nav-item">
           <a class="nav-link" href="{{ "/life" | relative_url }}">Life</a>
         </li>
@@ -27,3 +34,4 @@
     </div>
   </div>
 </nav>
+
