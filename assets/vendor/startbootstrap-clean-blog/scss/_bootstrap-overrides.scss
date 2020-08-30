@@ -33,74 +33,6 @@
   z-index:10;
 }
 
-// /* right bounce */
-// @-webkit-keyframes bounceRight {
-//   0%,
-//   20%,
-//   50%,
-//   80%,
-//   100% {
-//     -webkit-transform: translateX(0);
-//     transform: translateX(0);
-//   }
-//   40% {
-//     -webkit-transform: translateX(-10px);
-//     transform: translateX(-10px);
-//   }
-//   60% {
-//     -webkit-transform: translateX(-5px);
-//     transform: translateX(-5px);
-//   }
-// }
-// @-moz-keyframes bounceRight {
-//   0%,
-//   20%,
-//   50%,
-//   80%,
-//   100% {
-//     transform: translateX(0);
-//   }
-//   40% {
-//     transform: translateX(-10px);
-//   }
-//   60% {
-//     transform: translateX(-5px);
-//   }
-// }
-// @keyframes bounceRight {
-//   0%,
-//   20%,
-//   50%,
-//   80%,
-//   100% {
-//     -ms-transform: translateX(0);
-//     transform: translateX(0);
-//   }
-//   40% {
-//     -ms-transform: translateX(-10px);
-//     transform: translateX(-10px);
-//   }
-//   60% {
-//     -ms-transform: translateX(-5px);
-//     transform: translateX(-5px);
-//   }
-// }
-
-/* assign bounce */
-// .fa-arrow-right {
-//   // -webkit-animation: bounceRight 5s infinite;
-//   // animation: bounceRight 5s infinite;
-//   float:right;
-//}
-
-// .dropdown:hover > .dropdown-menu {
-//   display: block;
-// }
-// .dropdown > .dropdown-toggle:active {
-//   /*Without this, clicking will make it sticky*/
-//   pointer-events: none;
-// }
-
 #myBtn {
   display: none;
   position: fixed;
@@ -130,3 +62,8 @@
     padding-bottom: 5px;
 }
 
+.dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #6c757d;
+}
