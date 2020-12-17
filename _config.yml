@@ -16,8 +16,12 @@ linkedin_username:  jiajia-liang-296842174
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+# paginate_path:      "/posts/page:num/"
+paginate_path: "/page/:num"
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jemoji
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

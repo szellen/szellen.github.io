@@ -29,10 +29,21 @@
         "bootstrap": "4.3.1",
         "font-awesome": "4.7.0",
         "jquery": "3.4.1",
-        "startbootstrap-clean-blog": "5.0.8"
+        "startbootstrap-clean-blog": "5.0.8",
+        "browser-sync": "^2.18.13",
+        "child_process": "^1.0.2",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^4.0.0",
+        "gulp-cache": "^0.4.6",
+        "gulp-imagemin": "^3.2.0",
+        "gulp-sass": "^3.1.0",
+        "imagemin-pngquant": "^5.0.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
         "gulp": "4.0.2"
     }
 }
+
+
+  
