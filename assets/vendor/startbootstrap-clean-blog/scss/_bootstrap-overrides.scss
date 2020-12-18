@@ -73,3 +73,10 @@
   margin-bottom: 0.4rem;
   margin-top: 0.5rem;
 }
+
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between
+}

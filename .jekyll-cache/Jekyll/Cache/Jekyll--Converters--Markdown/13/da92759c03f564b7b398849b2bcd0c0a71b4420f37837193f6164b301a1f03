@@ -1,0 +1,30 @@
+I"<p>Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr,</p>
+
+<h2 id="plaid-ramps-kitsch-woke-pork-belly">Plaid ramps kitsch woke pork belly</h2>
+<p>90’s yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing</p>
+
+<p><img src="/blog/assets/img/we-in-rest.jpg" alt="I and My friends" /></p>
+
+<blockquote>
+  <p>Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.</p>
+</blockquote>
+
+<ul>
+  <li>Hexagon shoreditch beard</li>
+  <li>Intelligentsia narwhal austin</li>
+  <li>Literally meditation four</li>
+  <li>Microdosing hoodie woke</li>
+</ul>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].</p>
+:ET
