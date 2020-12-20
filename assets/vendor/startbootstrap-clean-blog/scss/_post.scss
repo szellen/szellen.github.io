@@ -308,9 +308,9 @@ a.newer-posts:hover {
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
   .post {
-    width: 48%;
+    width: 80%;
     max-width: 100%;
-    margin: 0 0.9% 1.5%;
+    margin: auto;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
