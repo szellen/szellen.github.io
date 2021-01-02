@@ -4,7 +4,7 @@ title: 2018
 date: 2018-12-31 22:15:00 +0300
 img: 2018-12-31/crane.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [EndOfYear,2018]
+tags: [EndOfYear,Y2018]
 lang: ch
 preview: 这一年，还没找到努力的目的地，也意识到世界是荒谬的；这一年，像一个大人一样，慢慢学着生活，学着掌握自己的未来。2019年，希望自己足够努力，然后才有资格去索求足够的幸运。
 ---

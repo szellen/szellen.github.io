@@ -4,7 +4,7 @@ title: 2019
 date: 2019-12-31 22:15:00 +0300
 img: 2019-12-31/with-ljm.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [EndOfYear,2019]
+tags: [EndOfYear,Y2019]
 lang: ch
 preview: 这一年呀，好像收获了一些意想不到的东西，收获了一些想要得到的东西，遗憾一些本可以不成为遗憾的事情，遗憾一些需要时间所以注定是遗憾的事情。2020年，她爱着这个世界。
 ---

@@ -5,7 +5,7 @@ date: 2019-12-28 22:15:00 +0500
 description: 夏威夷游记
 img: 2019-12-28/sailman.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, 2019]
+tags: [Holidays, Y2019]
 lang: ch
 preview: 跟其夏威夷圣诞度假七零八碎的游记。机场求生，圣诞夜暴风雨逃离，半夜找民宿...经历了好些大风大浪；还有跳伞，kayak，吃到了好多好吃的。回想起那些天的天空大海，还是会向往呀。
 ---

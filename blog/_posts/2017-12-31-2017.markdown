@@ -4,7 +4,7 @@ title: 2017
 date: 2017-12-31 22:15:00 +0300
 img: 2017-12-31/uva.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [EndOfYear,2017]
+tags: [EndOfYear,Y2017]
 lang: ch
 preview: 有人问“2017哪一天对你很重要”，是个挺有意思的问题呀。从高中生，到成为大学生；经历了申请季，一个人来大学里生活；离开家四个月后放假回到家，感叹回家真好。
 
