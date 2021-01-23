@@ -25,3 +25,6 @@ plugins:
   - jemoji
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+# Google Analytics
+google_analytics: G-0MLX4PRTGR
